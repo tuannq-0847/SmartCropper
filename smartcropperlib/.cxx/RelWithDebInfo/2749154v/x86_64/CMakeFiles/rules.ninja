@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Users/tuannguyen/Library/Android/sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/Users/tuannguyen/SmartCropper/smartcropperlib -B/Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86_64
+  command = /Users/tuannguyen/Library/Android/sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib -B/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86_64
   description = Re-running CMake...
   generator = 1
 

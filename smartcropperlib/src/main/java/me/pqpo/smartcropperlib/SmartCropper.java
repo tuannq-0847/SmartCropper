@@ -103,7 +103,11 @@ public class SmartCropper {
     private static native void nativeCrop(Bitmap srcBitmap, Point[] points, Bitmap outBitmap);
 
     static {
-        System.loadLibrary("smart_cropper");
+        try {
+            System.loadLibrary("smart_cropper");
+        } catch (Exception e) {
+            //do nothing
+        }
     }
 
 }
