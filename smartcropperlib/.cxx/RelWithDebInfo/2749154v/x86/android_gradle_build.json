@@ -1,19 +1,19 @@
 {
   "buildFiles": [
-    "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/CMakeLists.txt"
+    "/Users/tuannguyen/SmartCropper/smartcropperlib/CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
     [
       "/Users/tuannguyen/Library/Android/sdk/cmake/3.22.1/bin/ninja",
       "-C",
-      "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86",
+      "/Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
     "/Users/tuannguyen/Library/Android/sdk/cmake/3.22.1/bin/ninja",
     "-C",
-    "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86",
+    "/Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {
@@ -21,7 +21,7 @@
       "toolchain": "toolchain",
       "abi": "x86",
       "artifactName": "smart_cropper",
-      "output": "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86/libsmart_cropper.so",
+      "output": "/Users/tuannguyen/SmartCropper/smartcropperlib/build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86/libsmart_cropper.so",
       "runtimeFiles": []
     }
   },

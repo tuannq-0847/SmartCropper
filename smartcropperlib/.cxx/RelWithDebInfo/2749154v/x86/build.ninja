@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86/
+cmake_ninja_workdir = /Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86/
 # =============================================================================
 # Object build statements for SHARED_LIBRARY target smart_cropper
 
@@ -49,31 +49,31 @@ cmake_ninja_workdir = /Users/tuannguyen/Desktop/Project/SmartCropper/smartcroppe
 
 build cmake_object_order_depends_target_smart_cropper: phony || CMakeFiles/smart_cropper.dir
 
-build CMakeFiles/smart_cropper.dir/src/main/cpp/Scanner.cpp.o: CXX_COMPILER__smart_cropper_RelWithDebInfo /Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/src/main/cpp/Scanner.cpp || cmake_object_order_depends_target_smart_cropper
+build CMakeFiles/smart_cropper.dir/src/main/cpp/Scanner.cpp.o: CXX_COMPILER__smart_cropper_RelWithDebInfo /Users/tuannguyen/SmartCropper/smartcropperlib/src/main/cpp/Scanner.cpp || cmake_object_order_depends_target_smart_cropper
   DEFINES = -Dsmart_cropper_EXPORTS
   DEP_FILE = CMakeFiles/smart_cropper.dir/src/main/cpp/Scanner.cpp.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O2 -g -DNDEBUG -fPIC
-  INCLUDES = -I/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/opencv/include -I/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/src/main/cpp/include
+  INCLUDES = -I/Users/tuannguyen/SmartCropper/smartcropperlib/opencv/include -I/Users/tuannguyen/SmartCropper/smartcropperlib/src/main/cpp/include
   OBJECT_DIR = CMakeFiles/smart_cropper.dir
   OBJECT_FILE_DIR = CMakeFiles/smart_cropper.dir/src/main/cpp
   TARGET_COMPILE_PDB = CMakeFiles/smart_cropper.dir/
   TARGET_PDB = ../../../../build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86/libsmart_cropper.pdb
 
-build CMakeFiles/smart_cropper.dir/src/main/cpp/android_utils.cpp.o: CXX_COMPILER__smart_cropper_RelWithDebInfo /Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/src/main/cpp/android_utils.cpp || cmake_object_order_depends_target_smart_cropper
+build CMakeFiles/smart_cropper.dir/src/main/cpp/android_utils.cpp.o: CXX_COMPILER__smart_cropper_RelWithDebInfo /Users/tuannguyen/SmartCropper/smartcropperlib/src/main/cpp/android_utils.cpp || cmake_object_order_depends_target_smart_cropper
   DEFINES = -Dsmart_cropper_EXPORTS
   DEP_FILE = CMakeFiles/smart_cropper.dir/src/main/cpp/android_utils.cpp.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O2 -g -DNDEBUG -fPIC
-  INCLUDES = -I/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/opencv/include -I/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/src/main/cpp/include
+  INCLUDES = -I/Users/tuannguyen/SmartCropper/smartcropperlib/opencv/include -I/Users/tuannguyen/SmartCropper/smartcropperlib/src/main/cpp/include
   OBJECT_DIR = CMakeFiles/smart_cropper.dir
   OBJECT_FILE_DIR = CMakeFiles/smart_cropper.dir/src/main/cpp
   TARGET_COMPILE_PDB = CMakeFiles/smart_cropper.dir/
   TARGET_PDB = ../../../../build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86/libsmart_cropper.pdb
 
-build CMakeFiles/smart_cropper.dir/src/main/cpp/smart_cropper.cpp.o: CXX_COMPILER__smart_cropper_RelWithDebInfo /Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/src/main/cpp/smart_cropper.cpp || cmake_object_order_depends_target_smart_cropper
+build CMakeFiles/smart_cropper.dir/src/main/cpp/smart_cropper.cpp.o: CXX_COMPILER__smart_cropper_RelWithDebInfo /Users/tuannguyen/SmartCropper/smartcropperlib/src/main/cpp/smart_cropper.cpp || cmake_object_order_depends_target_smart_cropper
   DEFINES = -Dsmart_cropper_EXPORTS
   DEP_FILE = CMakeFiles/smart_cropper.dir/src/main/cpp/smart_cropper.cpp.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O2 -g -DNDEBUG -fPIC
-  INCLUDES = -I/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/opencv/include -I/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/src/main/cpp/include
+  INCLUDES = -I/Users/tuannguyen/SmartCropper/smartcropperlib/opencv/include -I/Users/tuannguyen/SmartCropper/smartcropperlib/src/main/cpp/include
   OBJECT_DIR = CMakeFiles/smart_cropper.dir
   OBJECT_FILE_DIR = CMakeFiles/smart_cropper.dir/src/main/cpp
   TARGET_COMPILE_PDB = CMakeFiles/smart_cropper.dir/
@@ -91,7 +91,7 @@ build ../../../../build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86/libsma
   LANGUAGE_COMPILE_FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O2 -g -DNDEBUG
   LINK_FLAGS = -static-libstdc++ -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments  -Wl,--gc-sections
   LINK_LIBRARIES = -llog  -ljnigraphics  -lz  -lopencv_imgproc  -lopencv_core  -lippiw  -lippicv  -littnotify  -ltbb  -lcpufeatures  -latomic -lm
-  LINK_PATH = -L/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/opencv/lib/x86   -L/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/opencv/3rdparty/x86
+  LINK_PATH = -L/Users/tuannguyen/SmartCropper/smartcropperlib/opencv/lib/x86   -L/Users/tuannguyen/SmartCropper/smartcropperlib/opencv/3rdparty/x86
   OBJECT_DIR = CMakeFiles/smart_cropper.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -106,7 +106,7 @@ build ../../../../build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86/libsma
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86 && /Users/tuannguyen/Library/Android/sdk/cmake/3.22.1/bin/ccmake -S/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib -B/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86
+  COMMAND = cd /Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86 && /Users/tuannguyen/Library/Android/sdk/cmake/3.22.1/bin/ccmake -S/Users/tuannguyen/SmartCropper/smartcropperlib -B/Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -118,7 +118,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86 && /Users/tuannguyen/Library/Android/sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib -B/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86
+  COMMAND = cd /Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86 && /Users/tuannguyen/Library/Android/sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/Users/tuannguyen/SmartCropper/smartcropperlib -B/Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -138,7 +138,7 @@ build smart_cropper: phony ../../../../build/intermediates/cxx/RelWithDebInfo/27
 # =============================================================================
 
 #############################################
-# Folder: /Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86
+# Folder: /Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86
 
 build all: phony ../../../../build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86/libsmart_cropper.so
 

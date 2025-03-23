@@ -1,1 +1,1 @@
-/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/CMakeLists.txt
+/Users/tuannguyen/SmartCropper/smartcropperlib/CMakeLists.txt

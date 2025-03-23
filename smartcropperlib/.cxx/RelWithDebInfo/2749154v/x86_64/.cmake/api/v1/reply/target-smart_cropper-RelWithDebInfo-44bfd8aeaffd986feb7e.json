@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/build/intermediates/cxx/RelWithDebInfo/2749154v/obj/armeabi-v7a/libsmart_cropper.so"
+			"path" : "/Users/tuannguyen/SmartCropper/smartcropperlib/build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86_64/libsmart_cropper.so"
 		}
 	],
 	"backtrace" : 1,
@@ -45,7 +45,7 @@
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 45,
+				"line" : 43,
 				"parent" : 0
 			},
 			{
@@ -62,7 +62,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O2 -g -DNDEBUG -fPIC"
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O2 -g -DNDEBUG -fPIC"
 				}
 			],
 			"defines" : 
@@ -75,11 +75,11 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/opencv/include"
+					"path" : "/Users/tuannguyen/SmartCropper/smartcropperlib/opencv/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/src/main/cpp/include"
+					"path" : "/Users/tuannguyen/SmartCropper/smartcropperlib/src/main/cpp/include"
 				}
 			],
 			"language" : "CXX",
@@ -106,12 +106,12 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-L/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/opencv/lib/armeabi-v7a",
+				"fragment" : "-L/Users/tuannguyen/SmartCropper/smartcropperlib/opencv/lib/x86_64",
 				"role" : "libraryPath"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-L/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/opencv/3rdparty/armeabi-v7a",
+				"fragment" : "-L/Users/tuannguyen/SmartCropper/smartcropperlib/opencv/3rdparty/x86_64",
 				"role" : "libraryPath"
 			},
 			{
@@ -141,7 +141,17 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "-ltegra_hal",
+				"fragment" : "-lippiw",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-lippicv",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-littnotify",
 				"role" : "libraries"
 			},
 			{

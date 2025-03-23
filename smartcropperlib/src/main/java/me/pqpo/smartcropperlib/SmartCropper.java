@@ -105,8 +105,10 @@ public class SmartCropper {
     static {
         try {
             System.loadLibrary("smart_cropper");
+        } catch (UnsatisfiedLinkError e) {
+            e.printStackTrace();  // Log the error
         } catch (Exception e) {
-            //do nothing
+            e.printStackTrace();  // Handle other exceptions if needed
         }
     }
 

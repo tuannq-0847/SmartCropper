@@ -1,4 +1,4 @@
-# Install script for directory: /Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib
+# Install script for directory: /Users/tuannguyen/SmartCropper/smartcropperlib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86_64/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86_64/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

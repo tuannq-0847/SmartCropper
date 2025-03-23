@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "armeabi-v7a"
+			"value" : "x86"
 		},
 		{
 			"name" : "ANDROID_NDK",
@@ -87,7 +87,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "armeabi-v7a"
+			"value" : "x86"
 		},
 		{
 			"name" : "CMAKE_ANDROID_NDK",
@@ -175,7 +175,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/armeabi-v7a"
+			"value" : "/Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -739,7 +739,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib"
+			"value" : "/Users/tuannguyen/SmartCropper/smartcropperlib"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -775,7 +775,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/build/intermediates/cxx/RelWithDebInfo/2749154v/obj/armeabi-v7a"
+			"value" : "/Users/tuannguyen/SmartCropper/smartcropperlib/build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1047,7 +1047,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/build/intermediates/cxx/RelWithDebInfo/2749154v/obj/armeabi-v7a"
+			"value" : "/Users/tuannguyen/SmartCropper/smartcropperlib/build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1331,7 +1331,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/armeabi-v7a"
+			"value" : "/Users/tuannguyen/SmartCropper/smartcropperlib/.cxx/RelWithDebInfo/2749154v/x86"
 		},
 		{
 			"name" : "Project_IS_TOP_LEVEL",
@@ -1355,7 +1355,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/tuannguyen/Desktop/Project/SmartCropper/smartcropperlib"
+			"value" : "/Users/tuannguyen/SmartCropper/smartcropperlib"
 		},
 		{
 			"name" : "smart_cropper_LIB_DEPENDS",
@@ -1367,7 +1367,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "general;log;general;jnigraphics;general;z;general;opencv_imgproc;general;opencv_core;general;tegra_hal;general;tbb;general;cpufeatures;"
+			"value" : "general;log;general;jnigraphics;general;z;general;opencv_imgproc;general;opencv_core;general;ippiw;general;ippicv;general;ittnotify;general;tbb;general;cpufeatures;"
 		}
 	],
 	"kind" : "cache",

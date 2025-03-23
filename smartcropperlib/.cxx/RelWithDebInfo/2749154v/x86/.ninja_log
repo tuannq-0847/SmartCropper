@@ -1,5 +1,5 @@
 # ninja log v5
-1	2139	1742440611430281196	CMakeFiles/smart_cropper.dir/src/main/cpp/android_utils.cpp.o	6b2fe066105dc01e
-2	2356	1742440611645949370	CMakeFiles/smart_cropper.dir/src/main/cpp/smart_cropper.cpp.o	3806faf5394c03b9
-0	2970	1742440612260282209	CMakeFiles/smart_cropper.dir/src/main/cpp/Scanner.cpp.o	2286ebc0b02f8047
-2970	3405	1742440612645853553	../../../../build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86/libsmart_cropper.so	aa7fed4ea12d171b
+0	665	1742709473653678138	CMakeFiles/smart_cropper.dir/src/main/cpp/android_utils.cpp.o	b362cace338ef296
+0	726	1742709473713342685	CMakeFiles/smart_cropper.dir/src/main/cpp/smart_cropper.cpp.o	c66f49e0bcc77765
+0	907	1742709473893344673	CMakeFiles/smart_cropper.dir/src/main/cpp/Scanner.cpp.o	528092e33f48b4f6
+907	1090	1742709474064358130	../../../../build/intermediates/cxx/RelWithDebInfo/2749154v/obj/x86/libsmart_cropper.so	b8906b0b48df2ce5
